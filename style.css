@@ -1,0 +1,142 @@
+body {
+  background: #daf0e1
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+}
+h3 {
+  color: #2c584a;
+  text-align: center;
+}
+img {
+  width: 500px;
+}
+a {
+  background: #72aba4;
+  color: #ffffff;
+  padding: 12px;
+  border-radius: 25px;
+  text-decoration: none;
+}
+.buttons {
+display: flex;
+  justify-content: center;
+  margin: 20px;
+  grid-gap: 15px;
+}
+.maintitle {
+  background: #6b8e73;
+  color: white;
+  text-align: center;
+  font-family: cursive;
+  font-size: 70px;
+  border-radius: 20px;
+  border-style: dotted;
+  border-color: aliceblue;
+}
+.mainp {
+  background: #f8fff9;
+  width: 40%;
+  margin: auto;
+  padding: 20px;
+  border-radius: 30px;
+  font-family:monospace;
+  font-size: 20px;
+  text-align: center;
+}
+.maindisplay{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.mainimage{
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #632db4;
+}
+.title {
+  background: #415045;
+  text-align: center;
+  color: aliceblue;
+  font-family: cursive;
+  font-size: 70px;
+  border-style: dashed;
+  margin: 10px;
+  border-radius: 20px;
+}
+.row{
+  display: flex;
+  align-items: center;
+  justify-content:center;
+}
+.aboutimage{
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #632db4;
+}
+.aboutme{
+  font-size: 22px;
+  font-family: monospace;
+  background: #f7fffd;
+  width: 75%;
+  margin: auto;
+  padding: 30px;
+  border-radius: 20px;
+  border-style:double;
+  border-color: #1bb241;
+}
+.bestwork {
+  font-size: 22px;
+  font-family: monospace;
+  background: #aed8ce;
+  width: 75%;
+  margin: auto;
+  padding: 30px;
+  border-radius: 20px;
+  border-style:double;
+  border-color: #375f41;
+}
+.growth {
+  font-size: 22px;
+  font-family: monospace;
+  background: #ddfff7;
+  width: 75%;
+  margin: auto;
+  padding: 30px;
+  border-radius: 20px;
+  border-style:double;
+  border-color: #04280d;
+}
+.iframedisplay{
+   display: flex;
+  align-items: center;
+  justify-content:center;
+}
+.futurerow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  grid-row-gap: 10px;
+}
+.sheetsimg {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #632db4;
+  height: auto;
+  width: 800px;
+  margin: auto;
+}
+.future {
+  font-size: 20px;
+  font-family: monospace;
+  background: #99b9b2;
+  width: 30%;
+  margin: auto;
+  padding: 30px;
+  border-radius: 20px;
+  border-style:double;
+  border-color: #5bbb73;
+}
